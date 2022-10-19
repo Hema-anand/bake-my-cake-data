@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "db server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Hema",
+  "license": "ISC"
+}
